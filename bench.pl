@@ -1,7 +1,7 @@
 #!/usr/bin/env perl -I blib/lib -I blib/arch
 
 use Math::Round ();
-use Math::Round::XS;
+use Math::Round::XS ();
 use Benchmark qw(cmpthese);
 
 srand;
