@@ -8,6 +8,6 @@ WriteMakefile(
     ABSTRACT_FROM => 'lib/Math/Round/XS.pm',
     AUTHOR => 'Adam Weinberger',
     OPTIMIZE => '-O3',
-    LICENSE => 'freebsd',
+    LICENSE => 'mit',
     XSMULTI => 1
 );
